@@ -53,7 +53,7 @@ namespace Matrix
 			ColumnsAmmount = ColumnsAmmount ^ RowsAmmount;
 			RowsAmmount = ColumnsAmmount ^ RowsAmmount;
 			ColumnsAmmount = ColumnsAmmount ^ RowsAmmount;
-			
+
 			return;
 		}
 
@@ -88,8 +88,23 @@ namespace Matrix
 
 			CheckIfIndexIsNotOutOfRange(columnLength, nameof(columnLength), RowsAmmount, RowsAmmount);
 
+			for (int rowIndex = 0; rowIndex < RowsAmmount; rowIndex++)
+			{
+				Body[rowIndex].Add(column[rowIndex]);
+			}
 
+			return;
+		}
 
+		public void AddRow(List<T> row)
+		{
+			int rowLength = row.Count;
+
+			CheckIfIndexIsNotOutOfRange(rowLength, nameof(rowLength), ColumnsAmmount, ColumnsAmmount);
+
+			Body.Add(new List<T>(row));
+
+			return;
 		}
 
 		public List<T> GetColumn(int columnIndex)
@@ -121,9 +136,9 @@ namespace Matrix
 		{
 			if (index < minValue || index > maxValue)
 			{
-				ArgumentOutOfRangeException exception = 
+				ArgumentOutOfRangeException exception =
 					ExceptionBuilder.BuildArgumentOutOfRangeException(
-						index, indexName,	0, ColumnsAmmount - 1);
+						index, indexName, 0, ColumnsAmmount - 1);
 				throw exception;
 			}
 
@@ -134,7 +149,7 @@ namespace Matrix
 		{
 			if (Body == null)
 			{
-				ArgumentNullException exception = 
+				ArgumentNullException exception =
 					ExceptionBuilder.BuildArgumentNullException(Body, nameof(Body));
 				throw exception;
 			}
