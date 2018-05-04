@@ -10,8 +10,10 @@ namespace CheckApp
 			Matrix<int> m = new Matrix<int>(3,5);
 			m.SetValue(1,2, 0);
 			m.Print();
+			m.RemoveColumn(2);
 			m.TransposeMatrix();
 			m.GetColumn(0);
+			
 			m.Print();
         }
     }

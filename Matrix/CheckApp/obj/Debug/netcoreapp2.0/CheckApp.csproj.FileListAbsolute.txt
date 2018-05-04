@@ -12,3 +12,17 @@ C:\Users\Lenovo\Desktop\Диплом\Matrix\CheckApp\obj\Debug\netcoreapp2.0\Che
 C:\Users\Lenovo\Desktop\Диплом\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.csproj.CopyComplete
 C:\Users\Lenovo\Desktop\Диплом\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.dll
 C:\Users\Lenovo\Desktop\Диплом\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.pdb
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.dll
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.pdb
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\bin\Debug\netcoreapp2.0\CheckApp.deps.json
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\bin\Debug\netcoreapp2.0\CheckApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\bin\Debug\netcoreapp2.0\CheckApp.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\bin\Debug\netcoreapp2.0\CheckApp.dll
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\bin\Debug\netcoreapp2.0\CheckApp.pdb
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\bin\Debug\netcoreapp2.0\Matrix.dll
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\bin\Debug\netcoreapp2.0\Matrix.pdb
+C:\Users\Lenovo\Desktop\Diplom\Matrix\CheckApp\obj\Debug\netcoreapp2.0\CheckApp.csproj.CopyComplete

@@ -92,6 +92,7 @@ namespace Matrix
 			{
 				Body[rowIndex].Add(column[rowIndex]);
 			}
+			ColumnsAmmount += 1;
 
 			return;
 		}
@@ -103,6 +104,30 @@ namespace Matrix
 			CheckIfIndexIsNotOutOfRange(rowLength, nameof(rowLength), ColumnsAmmount, ColumnsAmmount);
 
 			Body.Add(new List<T>(row));
+			RowsAmmount += 1;
+
+			return;
+		}
+
+		public void RemoveColumn(int columnIndex)
+		{
+			CheckIfIndexIsNotOutOfRange(columnIndex, nameof(columnIndex), 0, ColumnsAmmount);
+
+			for (int rowIndex = 0; rowIndex < RowsAmmount; rowIndex++)
+			{
+				Body[rowIndex].RemoveAt(columnIndex);
+			}
+			ColumnsAmmount -= 1;
+
+			return;
+		}
+
+		public void RemoveRow(int rowIndex)
+		{
+			CheckIfIndexIsNotOutOfRange(rowIndex, nameof(rowIndex), 0, RowsAmmount);
+
+			Body.RemoveAt(rowIndex);
+			RowsAmmount -= 1;
 
 			return;
 		}

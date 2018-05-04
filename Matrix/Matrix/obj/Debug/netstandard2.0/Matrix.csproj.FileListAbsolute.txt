@@ -7,3 +7,12 @@ C:\Users\Lenovo\Desktop\Диплом\Matrix\Matrix\bin\Debug\netstandard2.0\Matr
 C:\Users\Lenovo\Desktop\Диплом\Matrix\Matrix\bin\Debug\netstandard2.0\Matrix.pdb
 C:\Users\Lenovo\Desktop\Диплом\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.dll
 C:\Users\Lenovo\Desktop\Диплом\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.pdb
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\bin\Debug\netstandard2.0\Matrix.deps.json
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\bin\Debug\netstandard2.0\Matrix.dll
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\bin\Debug\netstandard2.0\Matrix.pdb
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.dll
+C:\Users\Lenovo\Desktop\Diplom\Matrix\Matrix\obj\Debug\netstandard2.0\Matrix.pdb
